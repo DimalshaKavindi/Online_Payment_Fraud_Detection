@@ -14,4 +14,4 @@ With the increasing prevalence of online transactions, the risk of fraudulent ac
 
 3. **Model Building:** We employ two popular machine learning algorithms, logistic regression and random forest, to build our fraud detection models. These models are trained on labeled data to learn patterns indicative of fraudulent behavior.
 
-4. **Model Evaluation:** We evaluate the performance of our models using appropriate metrics such as accuracy, precision, recall, and F1-score. This allows us to assess how well the models generalize to unseen data and their ability to correctly identify fraudulent transactions while minimizing false positives.
+4. **Model Evaluation:** We evaluate the performance of our models using appropriate metrics such as accuracy, precision, recall, and ROC curve. This allows us to assess how well the models generalize to unseen data and their ability to correctly identify fraudulent transactions while minimizing false positives.
